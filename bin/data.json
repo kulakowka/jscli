@@ -1,0 +1,1462 @@
+{
+  "abs": {
+    "method": "abs",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs",
+    "text": "The Math.abs() function returns the absolute value of a number, that is"
+  },
+  "acos": {
+    "method": "acos",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/acos",
+    "text": "The Math.acos() function returns the arccosine (in radians) of a number, that is"
+  },
+  "acosh": {
+    "method": "acosh",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/acosh",
+    "text": "The Math.acosh() function returns the hyperbolic arc-cosine of a number, that is"
+  },
+  "add": {
+    "method": "add",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set/add",
+    "text": "The add() method appends a new element with a specified value to the end of a Set object."
+  },
+  "all": {
+    "method": "all",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all",
+    "text": "The Promise.all() method returns a single Promise that resolves when all of the promises passed as an iterable have resolved or when the iterable contains no promises. It rejects with the reason of the first promise that rejects."
+  },
+  "anchor": {
+    "method": "anchor",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/anchor",
+    "text": "The anchor() method creates an <a> HTML anchor element that is used as a hypertext target."
+  },
+  "and": {
+    "method": "and",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/and",
+    "text": "The static Atomics.and() method computes a bitwise AND with a given value at a given position in the array, and returns the old value at that position. This atomic operation guarantees that no other write happens until the modified value is written back."
+  },
+  "apply": {
+    "method": "apply",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/apply",
+    "text": "The static Reflect.apply() method calls a target function with arguments as specified."
+  },
+  "asin": {
+    "method": "asin",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/asin",
+    "text": "The Math.asin() function returns the arcsine (in radians) of a number, that is"
+  },
+  "asinh": {
+    "method": "asinh",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/asinh",
+    "text": "The Math.asinh() function returns the hyperbolic arcsine of a number, that is"
+  },
+  "assign": {
+    "method": "assign",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign",
+    "text": "The Object.assign() method is used to copy the values of all enumerable own properties from one or more source objects to a target object. It will return the target object."
+  },
+  "atend": {
+    "method": "atEnd",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Enumerator/atEnd",
+    "text": "The Enumerator.atEnd method returns a Boolean value indicating if the enumerator is at the end of the collection."
+  },
+  "atan": {
+    "method": "atan",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan",
+    "text": "The Math.atan() function returns the arctangent (in radians) of a number, that is"
+  },
+  "atan2": {
+    "method": "atan2",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2",
+    "text": "The Math.atan2() function returns the angle in the plane (in radians) between the positive x-axis and the ray from (0,0) to the point (x,y), for Math.atan2(y,x)."
+  },
+  "atanh": {
+    "method": "atanh",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atanh",
+    "text": "The Math.atanh() function returns the hyperbolic arctangent of a number, that is"
+  },
+  "big": {
+    "method": "big",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/big",
+    "text": "The big() method creates a <big> HTML element that causes a string to be displayed in a big font."
+  },
+  "bind": {
+    "method": "bind",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind",
+    "text": "The bind() method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called."
+  },
+  "blink": {
+    "method": "blink",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/blink",
+    "text": "The blink() method creates a <blink> HTML element that causes a string to blink."
+  },
+  "bold": {
+    "method": "bold",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/bold",
+    "text": "The bold() method creates a <b> HTML element that causes a string to be displayed as bold."
+  },
+  "call": {
+    "method": "call",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call",
+    "text": "The call() method calls a function with a given this value and arguments provided individually."
+  },
+  "catch": {
+    "method": "catch",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch",
+    "text": "The catch() method returns a Promise and deals with rejected cases only. It behaves the same as calling Promise.prototype.then(undefined, onRejected) (in fact, calling obj.catch(onRejected) internally calls obj.then(undefined, onRejected)). This means, that you have to provide onRejected function even if you want to fallback to undefined result value - for example obj.catch(() => {})."
+  },
+  "cbrt": {
+    "method": "cbrt",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cbrt",
+    "text": "The Math.cbrt() function returns the cube root of a number, that is"
+  },
+  "ceil": {
+    "method": "ceil",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil",
+    "text": "The Math.ceil() function returns the smallest integer greater than or equal to a given number."
+  },
+  "charat": {
+    "method": "charAt",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt",
+    "text": "The String object's charAt() method returns a new string consisting of the single UTF-16 code unit located at the specified offset into the string."
+  },
+  "charcodeat": {
+    "method": "charCodeAt",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt",
+    "text": "The charCodeAt() method returns an integer between 0 and 65535 representing the UTF-16 code unit at the given index."
+  },
+  "clear": {
+    "method": "clear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set/clear",
+    "text": "The clear() method removes all elements from a Set object."
+  },
+  "clz32": {
+    "method": "clz32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/clz32",
+    "text": "The Math.clz32() function returns the number of leading zero bits in the 32-bit binary representation of a number."
+  },
+  "codepointat": {
+    "method": "codePointAt",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/codePointAt",
+    "text": "The codePointAt() method returns a non-negative integer that is the Unicode code point value."
+  },
+  "compare": {
+    "method": "compare",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Collator/compare",
+    "text": "The Intl.Collator.prototype.compare() method compares two strings according to the sort order of this Collator object."
+  },
+  "compareexchange": {
+    "method": "compareExchange",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/compareExchange",
+    "text": "The static Atomics.compareExchange() method exchanges a given replacement value at a given position in the array, if a given expected value equals the old value.  It returns the old value at that position whether it was equal to the expected value or not. This atomic operation guarantees that no other write happens until the modified value is written back."
+  },
+  "compile": {
+    "method": "compile",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/compile",
+    "text": "The deprecated compile() method is used to (re-)compile a regular expression during execution of a script. It is basically the same as the RegExp constructor."
+  },
+  "compilestreaming": {
+    "method": "compileStreaming",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/compileStreaming",
+    "text": "The WebAssembly.compileStreaming() function compiles a WebAssembly.Module directly from a streamed underlying source.  This function is useful if it is necessary to a compile a module before it can be instantiated (otherwise, the WebAssembly.instantiateStreaming() function should be used)."
+  },
+  "concat": {
+    "method": "concat",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat",
+    "text": "The concat() method is used to merge two or more arrays. This method does not change the existing arrays, but instead returns a new array."
+  },
+  "construct": {
+    "method": "construct",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/construct",
+    "text": "The handler.construct() method is a trap for the new operator. In order for the new operation to be valid on the resulting Proxy object, the target used to initialize the proxy must itself have a [[Construct]] internal method (i.e. new target must be valid)."
+  },
+  "copywithin": {
+    "method": "copyWithin",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/copyWithin",
+    "text": "The copyWithin() method copies the sequence of array elements within the array to the position starting at target. The copy is taken from the index positions of the second and third arguments start and end. The end argument is optional and defaults to the length of the array. This method has the same algorithm as Array.prototype.copyWithin. TypedArray is one of the typed array types here."
+  },
+  "cos": {
+    "method": "cos",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cos",
+    "text": "The Math.cos() static function returns the cosine of the specified angle, which must be specified in radians. This value is"
+  },
+  "cosh": {
+    "method": "cosh",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh",
+    "text": "The Math.cosh() function returns the hyperbolic cosine of a number, that can be expressed using the constant e:"
+  },
+  "create": {
+    "method": "create",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create",
+    "text": "The Object.create() method creates a new object, using an existing object as the prototype of the newly created object."
+  },
+  "customsections": {
+    "method": "customSections",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/customSections",
+    "text": "The WebAssembly.customSections() function returns a copy of the contents of all custom sections in the given module with the given string name."
+  },
+  "defineproperties": {
+    "method": "defineProperties",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+    "text": "The Object.defineProperties() method defines new or modifies existing properties directly on an object, returning the object."
+  },
+  "defineproperty": {
+    "method": "defineProperty",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/defineProperty",
+    "text": "The handler.defineProperty() method is a trap for Object.defineProperty()."
+  },
+  "delete": {
+    "method": "delete",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set/delete",
+    "text": "The delete() method removes the specified element from a Set object."
+  },
+  "deleteproperty": {
+    "method": "deleteProperty",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/deleteProperty",
+    "text": "The handler.deleteProperty() method is a trap for the delete operator."
+  },
+  "dimensions": {
+    "method": "dimensions",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/VBArray/dimensions",
+    "text": "The VBArray.dimensions method returns the number of dimensions in a VBArray."
+  },
+  "endswith": {
+    "method": "endsWith",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith",
+    "text": "The endsWith() method determines whether a string ends with the characters of a specified string, returning true or false as appropriate."
+  },
+  "entries": {
+    "method": "entries",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries",
+    "text": "The Object.entries() method returns an array of a given object's own enumerable property [key, value] pairs, in the same order as that provided by a for...in loop (the difference being that a for-in loop enumerates properties in the prototype chain as well) . The order of the array returned by Object.entries() does not depend on how an object is defined. If there is a need for certain ordering then the array needs to be sorted first like Object.entries(obj).sort((a, b) => a[0] - b[0]);."
+  },
+  "enumerate": {
+    "method": "enumerate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/enumerate",
+    "text": "The static Reflect.enumerate() method used to return an iterator with the enumerable own and inherited properties of the target object, but has been removed in ECMAScript 2016 and is deprecated in browsers."
+  },
+  "eval": {
+    "method": "eval",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/eval",
+    "text": "The Object.eval() method used to evaluate a string of JavaScript code in the context of an object, however, this method has been removed."
+  },
+  "every": {
+    "method": "every",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/every",
+    "text": "The every() method tests whether all elements in the typed array pass the test implemented by the provided function. This method has the same algorithm as Array.prototype.every(). TypedArray is one of the typed array types here."
+  },
+  "exchange": {
+    "method": "exchange",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/exchange",
+    "text": "The static Atomics.exchange() method stores a given value at a given position in the array and returns the old value at that position. This atomic operation guarantees that no other write happens between the read of the old value and the write of the new value."
+  },
+  "exec": {
+    "method": "exec",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec",
+    "text": "The exec() method executes a search for a match in a specified string. Returns a result array, or null."
+  },
+  "exp": {
+    "method": "exp",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/exp",
+    "text": "The Math.exp() function returns ex, where x is the argument, and e is Euler's number (also known as Napier's constant), the base of the natural logarithms."
+  },
+  "expm1": {
+    "method": "expm1",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/expm1",
+    "text": "The Math.expm1() function returns ex - 1, where x is the argument, and e the base of the natural logarithms."
+  },
+  "exports": {
+    "method": "exports",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/exports",
+    "text": "The WebAssembly.exports() function returns an array containing descriptions of all the declared exports of the given Module."
+  },
+  "fill": {
+    "method": "fill",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill",
+    "text": "The fill() method fills all the elements of an array from a start index to an end index with a static value. The end index is not included."
+  },
+  "filter": {
+    "method": "filter",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/filter",
+    "text": "The filter() method creates a new typed array with all elements that pass the test implemented by the provided function. This method has the same algorithm as Array.prototype.filter(). TypedArray is one of the typed array types here."
+  },
+  "finally": {
+    "method": "finally",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally",
+    "text": "The finally() method returns a Promise. When the promise is settled, i.e either fulfilled or rejected, the specified callback function is executed. This provides a way for code to be run whether the promise was fulfilled successfully or rejected once the Promise has been dealt with ."
+  },
+  "find": {
+    "method": "find",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find",
+    "text": "The find() method returns the value of the first element in the array that satisfies the provided testing function. Otherwise undefined is returned."
+  },
+  "findindex": {
+    "method": "findIndex",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+    "text": "The findIndex() method returns the index of the first element in the array that satisfies the provided testing function. Otherwise, it returns -1, indicating no element passed the test."
+  },
+  "fixed": {
+    "method": "fixed",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fixed",
+    "text": "The fixed() method creates a <tt> HTML element that causes a string to be displayed in fixed-pitch font."
+  },
+  "flat": {
+    "method": "flat",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat",
+    "text": "The flat() method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth."
+  },
+  "flatmap": {
+    "method": "flatMap",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap",
+    "text": "The flatMap() method first maps each element using a mapping function, then flattens the result into a new array. It is identical to a map followed by a flat of depth 1, but flatMap is often quite useful, as merging both into one method is slightly more efficient."
+  },
+  "floor": {
+    "method": "floor",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor",
+    "text": "The Math.floor() function returns the largest integer less than or equal to a given number."
+  },
+  "fontcolor": {
+    "method": "fontcolor",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fontcolor",
+    "text": "The fontcolor() method creates a <font> HTML element that causes a string to be displayed in the specified font color."
+  },
+  "fontsize": {
+    "method": "fontsize",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fontsize",
+    "text": "The fontsize() method creates a <font> HTML element that causes a string to be displayed in the specified font size."
+  },
+  "for": {
+    "method": "for",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/for",
+    "text": "The Symbol.for(key) method searches for existing symbols in a runtime-wide symbol registry with the given key and returns it if found. Otherwise a new symbol gets created in the global symbol registry with this key."
+  },
+  "foreach": {
+    "method": "forEach",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/forEach",
+    "text": "The forEach() method executes a provided function once per each key/value pair in the Map object, in insertion order."
+  },
+  "format": {
+    "method": "format",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat/format",
+    "text": "The Intl.DateTimeFormat.prototype.format() method formats a date according to the locale and formatting options of this Intl.DateTimeFormat object."
+  },
+  "formattoparts": {
+    "method": "formatToParts",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat/formatToParts",
+    "text": "The Intl.DateTimeFormat.prototype.formatToParts() method allows locale-aware formatting of strings produced by DateTimeFormat formatters."
+  },
+  "freeze": {
+    "method": "freeze",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze",
+    "text": "The Object.freeze() method freezes an object. A frozen object can no longer be changed; freezing an object prevents new properties from being added to it, existing properties from being removed, prevents changing the enumerability, configurability, or writability of existing properties, and prevents the values of existing properties from being changed. In addition, freezing an object also prevents its prototype from being changed. freeze() returns the same object that was passed in."
+  },
+  "from": {
+    "method": "from",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+    "text": "The Array.from() method creates a new, shallow-copied Array instance from an array-like or iterable object."
+  },
+  "fromcharcode": {
+    "method": "fromCharCode",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode",
+    "text": "The static String.fromCharCode() method returns a string created from the specified sequence of UTF-16 code units."
+  },
+  "fromcodepoint": {
+    "method": "fromCodePoint",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCodePoint",
+    "text": "The static String.fromCodePoint() method returns a string created by using the specified sequence of code points."
+  },
+  "fromentries": {
+    "method": "fromEntries",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries",
+    "text": "The Object.fromEntries() method transforms a list of key-value pairs into an object."
+  },
+  "fround": {
+    "method": "fround",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/fround",
+    "text": "The Math.fround() function returns the nearest 32-bit single precision float representation of a Number."
+  },
+  "get": {
+    "method": "get",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/get",
+    "text": "The static Reflect.get() method works like getting a property from an object (target[propertyKey]) as a function."
+  },
+  "getcanonicallocales": {
+    "method": "getCanonicalLocales",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/getCanonicalLocales",
+    "text": "The Intl.getCanonicalLocales() method returns an array containing the canonical locale names. Duplicates will be omitted and elements will be validated as structurally valid language tags."
+  },
+  "getdate": {
+    "method": "getDate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getDate",
+    "text": "The getDate() method returns the day of the month for the specified date according to local time."
+  },
+  "getday": {
+    "method": "getDay",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getDay",
+    "text": "The getDay() method returns the day of the week for the specified date according to local time, where 0 represents Sunday. For the day of the month see getDate()."
+  },
+  "getfloat32": {
+    "method": "getFloat32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getFloat32",
+    "text": "The getFloat32() method gets a signed 32-bit float (float) at the specified byte offset from the start of the DataView."
+  },
+  "getfloat64": {
+    "method": "getFloat64",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getFloat64",
+    "text": "The getFloat64() method gets a signed 64-bit float (double) at the specified byte offset from the start of the DataView."
+  },
+  "getfullyear": {
+    "method": "getFullYear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear",
+    "text": "The getFullYear() method returns the year of the specified date according to local time."
+  },
+  "gethours": {
+    "method": "getHours",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getHours",
+    "text": "The getHours() method returns the hour for the specified date, according to local time."
+  },
+  "getint16": {
+    "method": "getInt16",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getInt16",
+    "text": "The getInt16() method gets a signed 16-bit integer (short) at the specified byte offset from the start of the DataView."
+  },
+  "getint32": {
+    "method": "getInt32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getInt32",
+    "text": "The getInt32() method gets a signed 32-bit integer (long) at the specified byte offset from the start of the DataView."
+  },
+  "getint8": {
+    "method": "getInt8",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getInt8",
+    "text": "The getInt8() method gets a signed 8-bit integer (byte) at the specified byte offset from the start of the DataView."
+  },
+  "getitem": {
+    "method": "getItem",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/VBArray/getItem",
+    "text": "The VBArray.getItem method returns the item at the specified location."
+  },
+  "getmilliseconds": {
+    "method": "getMilliseconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getMilliseconds",
+    "text": "The getMilliseconds() method returns the milliseconds in the specified date according to local time."
+  },
+  "getminutes": {
+    "method": "getMinutes",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getMinutes",
+    "text": "The getMinutes() method returns the minutes in the specified date according to local time."
+  },
+  "getmonth": {
+    "method": "getMonth",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getMonth",
+    "text": "The getMonth() method returns the month in the specified date according to local time, as a zero-based value (where zero indicates the first month of the year)."
+  },
+  "getnotifier": {
+    "method": "getNotifier",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getNotifier",
+    "text": "The Object.getNotifer() method was used to create an object that allows to synthetically trigger a change, but has been deprecated and removed in browsers."
+  },
+  "getownpropertydescriptor": {
+    "method": "getOwnPropertyDescriptor",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/getOwnPropertyDescriptor",
+    "text": "The handler.getOwnPropertyDescriptor() method is a trap for Object.getOwnPropertyDescriptor()."
+  },
+  "getownpropertydescriptors": {
+    "method": "getOwnPropertyDescriptors",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptors",
+    "text": "The Object.getOwnPropertyDescriptors() method returns all own property descriptors of a given object."
+  },
+  "getownpropertynames": {
+    "method": "getOwnPropertyNames",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames",
+    "text": "The Object.getOwnPropertyNames() method returns an array of all properties (including non-enumerable properties except for those which use Symbol) found directly in a given object."
+  },
+  "getownpropertysymbols": {
+    "method": "getOwnPropertySymbols",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertySymbols",
+    "text": "The Object.getOwnPropertySymbols() method returns an array of all symbol properties found directly upon a given object."
+  },
+  "getprototypeof": {
+    "method": "getPrototypeOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf",
+    "text": "The Object.getPrototypeOf() method returns the prototype (i.e. the value of the internal [[Prototype]] property) of the specified object."
+  },
+  "getseconds": {
+    "method": "getSeconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getSeconds",
+    "text": "The getSeconds() method returns the seconds in the specified date according to local time."
+  },
+  "gettime": {
+    "method": "getTime",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTime",
+    "text": "The getTime() method returns the numeric value corresponding to the time for the specified date according to universal time."
+  },
+  "gettimezoneoffset": {
+    "method": "getTimezoneOffset",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTimezoneOffset",
+    "text": "The getTimezoneOffset() method returns the time zone difference, in minutes, from current locale (host system settings) to UTC."
+  },
+  "getutcdate": {
+    "method": "getUTCDate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCDate",
+    "text": "The getUTCDate() method returns the day (date) of the month in the specified date according to universal time."
+  },
+  "getutcday": {
+    "method": "getUTCDay",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCDay",
+    "text": "The getUTCDay() method returns the day of the week in the specified date according to universal time, where 0 represents Sunday."
+  },
+  "getutcfullyear": {
+    "method": "getUTCFullYear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCFullYear",
+    "text": "The getUTCFullYear() method returns the year in the specified date according to universal time."
+  },
+  "getutchours": {
+    "method": "getUTCHours",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCHours",
+    "text": "The getUTCHours() method returns the hours in the specified date according to universal time."
+  },
+  "getutcmilliseconds": {
+    "method": "getUTCMilliseconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCMilliseconds",
+    "text": "The getUTCMilliseconds() method returns the milliseconds in the specified date according to universal time."
+  },
+  "getutcminutes": {
+    "method": "getUTCMinutes",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCMinutes",
+    "text": "The getUTCMinutes() method returns the minutes in the specified date according to universal time."
+  },
+  "getutcmonth": {
+    "method": "getUTCMonth",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCMonth",
+    "text": "The getUTCMonth() returns the month of the specified date according to universal time, as a zero-based value (where zero indicates the first month of the year)."
+  },
+  "getutcseconds": {
+    "method": "getUTCSeconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCSeconds",
+    "text": "The getUTCSeconds() method returns the seconds in the specified date according to universal time."
+  },
+  "getuint16": {
+    "method": "getUint16",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getUint16",
+    "text": "The getUint16() method gets an unsigned 16-bit integer (unsigned short) at the specified byte offset from the start of the DataView."
+  },
+  "getuint32": {
+    "method": "getUint32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getUint32",
+    "text": "The getUint32() method gets an unsigned 32-bit integer (unsigned long) at the specified byte offset from the start of the DataView."
+  },
+  "getuint8": {
+    "method": "getUint8",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/getUint8",
+    "text": "The getUint8() method gets an unsigned 8-bit integer (unsigned byte) at the specified byte offset from the start of the DataView."
+  },
+  "getvardate": {
+    "method": "getVarDate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Date.getVarDate",
+    "text": "The getVarDate method returns a VT_DATE value from a Date object."
+  },
+  "getyear": {
+    "method": "getYear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getYear",
+    "text": "The getYear() method returns the year in the specified date according to local time. Because getYear() does not return full years (\"year 2000 problem\"), it is no longer used and has been replaced by the getFullYear() method."
+  },
+  "grow": {
+    "method": "grow",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Table/grow",
+    "text": "The grow() prototype method of the WebAssembly.Table object increases the size of the Table instance by a specified number of elements."
+  },
+  "has": {
+    "method": "has",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet/has",
+    "text": "The has() method returns a boolean indicating whether an object exists in a WeakSet or not."
+  },
+  "hasownproperty": {
+    "method": "hasOwnProperty",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty",
+    "text": "The hasOwnProperty() method returns a boolean indicating whether the object has the specified property as its own property (as opposed to inheriting it)."
+  },
+  "hypot": {
+    "method": "hypot",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/hypot",
+    "text": "The Math.hypot() function returns the square root of the sum of squares of its arguments, that is:"
+  },
+  "imports": {
+    "method": "imports",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/imports",
+    "text": "The WebAssembly.imports() function returns an array containing descriptions of all the declared imports of the given Module."
+  },
+  "imul": {
+    "method": "imul",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul",
+    "text": "The Math.imul() function returns the result of the C-like 32-bit multiplication of the two parameters."
+  },
+  "includes": {
+    "method": "includes",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes",
+    "text": "The includes() method determines whether an array includes a certain value among its entries, returning true or false as appropriate."
+  },
+  "indexof": {
+    "method": "indexOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+    "text": "The indexOf() method returns the first index at which a given element can be found in the array, or -1 if it is not present."
+  },
+  "instantiate": {
+    "method": "instantiate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiate",
+    "text": "The WebAssembly.instantiate() function allows you to compile and instantiate WebAssembly code. This function has two overloads:"
+  },
+  "instantiatestreaming": {
+    "method": "instantiateStreaming",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiateStreaming",
+    "text": "The WebAssembly.instantiateStreaming() function compiles and instantiates a WebAssembly module directly from a streamed underlying source. This is the most efficient, optimized way to load wasm code."
+  },
+  "is": {
+    "method": "is",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is",
+    "text": "The Object.is() method determines whether two values are the same value."
+  },
+  "isarray": {
+    "method": "isArray",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray",
+    "text": "The Array.isArray() method determines whether the passed value is an Array."
+  },
+  "isextensible": {
+    "method": "isExtensible",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/isExtensible",
+    "text": "The handler.isExtensible() method is a trap for Object.isExtensible()."
+  },
+  "isfinite": {
+    "method": "isFinite",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite",
+    "text": "The Number.isFinite() method determines whether the passed value is a finite number."
+  },
+  "isfrozen": {
+    "method": "isFrozen",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isFrozen",
+    "text": "The Object.isFrozen() determines if an object is frozen."
+  },
+  "isgenerator": {
+    "method": "isGenerator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/isGenerator",
+    "text": "The non-standard isGenerator() method used to determine whether or not a function is a generator. It has been removed from Firefox starting with version 58."
+  },
+  "isinteger": {
+    "method": "isInteger",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger",
+    "text": "The Number.isInteger() method determines whether the passed value is an integer."
+  },
+  "islockfree": {
+    "method": "isLockFree",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/isLockFree",
+    "text": "The static Atomics.isLockFree() method is used to determine whether to use locks or atomic operations. It returns true, if the given size is one of the BYTES_PER_ELEMENT property of integer TypedArray types."
+  },
+  "isnan": {
+    "method": "isNaN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN",
+    "text": "The Number.isNaN() method determines whether the passed value is NaN and its type is Number. It is a more robust version of the original, global isNaN()."
+  },
+  "isprototypeof": {
+    "method": "isPrototypeOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isPrototypeOf",
+    "text": "The isPrototypeOf() method checks if an object exists in another object's prototype chain."
+  },
+  "issafeinteger": {
+    "method": "isSafeInteger",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger",
+    "text": "The Number.isSafeInteger() method determines whether the provided value is a number that is a safe integer."
+  },
+  "issealed": {
+    "method": "isSealed",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed",
+    "text": "The Object.isSealed() method determines if an object is sealed."
+  },
+  "isview": {
+    "method": "isView",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView",
+    "text": "The ArrayBuffer.isView() method returns true if arg is one of the ArrayBuffer views, such as typed array objects or a DataView; false otherwise."
+  },
+  "italics": {
+    "method": "italics",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/italics",
+    "text": "The italics() method creates an <i> HTML element that causes a string to be italic."
+  },
+  "item": {
+    "method": "item",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Enumerator/item",
+    "text": "The Enumerator.item method returns the current item in the collection."
+  },
+  "join": {
+    "method": "join",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/join",
+    "text": "The join() method joins all elements of an array into a string. This method has the same algorithm as Array.prototype.join(). TypedArray is one of the typed array types here."
+  },
+  "keyfor": {
+    "method": "keyFor",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/keyFor",
+    "text": "The Symbol.keyFor(sym) method retrieves a shared symbol key from the global symbol registry for the given symbol."
+  },
+  "keys": {
+    "method": "keys",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/keys",
+    "text": "The keys() method returns a new Array Iterator object that contains the keys for each index in the array."
+  },
+  "lastindexof": {
+    "method": "lastIndexOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf",
+    "text": "The lastIndexOf() method returns the index within the calling String object of the last occurrence of the specified value, searching backwards from fromIndex. Returns -1 if the value is not found."
+  },
+  "lbound": {
+    "method": "lbound",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/VBArray/lbound",
+    "text": "The VBArray.lbound method returns the lowest index value used in the specified dimension of a VBArray."
+  },
+  "link": {
+    "method": "link",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/link",
+    "text": "The link() method creates a string representing the code for an <a> HTML element to be used as a hypertext link to another URL."
+  },
+  "load": {
+    "method": "load",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/load",
+    "text": "The static Atomics.load() method returns a value at a given position in the array."
+  },
+  "localecompare": {
+    "method": "localeCompare",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare",
+    "text": "The localeCompare() method returns a number indicating whether a reference string comes before or after or is the same as the given string in sort order."
+  },
+  "log": {
+    "method": "log",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log",
+    "text": "The Math.log() function returns the natural logarithm (base e) of a number, that is"
+  },
+  "log10": {
+    "method": "log10",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10",
+    "text": "The Math.log10() function returns the base 10 logarithm of a number, that is"
+  },
+  "log1p": {
+    "method": "log1p",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log1p",
+    "text": "The Math.log1p() function returns the natural logarithm (base e) of 1 + a number, that is"
+  },
+  "log2": {
+    "method": "log2",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log2",
+    "text": "The Math.log2() function returns the base 2 logarithm of a number, that is"
+  },
+  "map": {
+    "method": "map",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/map",
+    "text": "The map() method creates a new typed array with the results of calling a provided function on every element in this typed array. This method has the same algorithm as Array.prototype.map(). TypedArray is one of the typed array types here."
+  },
+  "match": {
+    "method": "match",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match",
+    "text": "The match() method retrieves the result of matching a string against a regular expression."
+  },
+  "max": {
+    "method": "max",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max",
+    "text": "The Math.max() function returns the largest of zero or more numbers."
+  },
+  "min": {
+    "method": "min",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min",
+    "text": "The static function Math.min() returns the lowest-valued number passed into it, or NaN if any parameter isn't a number and can't be converted into one."
+  },
+  "move": {
+    "method": "move",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/move",
+    "text": "The move() method used to copy the sequence of array elements within the array to the position starting at target. However, this non-standard method has been replaced with the standard TypedArray.prototype.copyWithin() method. TypedArray is one of the typed array types here."
+  },
+  "movefirst": {
+    "method": "moveFirst",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Enumerator/moveFirst",
+    "text": "The Enumerator.moveFirst method resets the current item in the collection to the first item."
+  },
+  "movenext": {
+    "method": "moveNext",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Enumerator/moveNext",
+    "text": "The Enumerator.moveNext method moves the current item to the next item in the collection."
+  },
+  "next": {
+    "method": "next",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator/next",
+    "text": "The next() method returns an object with two properties done and value. You can also provide a parameter to the next method to send a value to the generator."
+  },
+  "normalize": {
+    "method": "normalize",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize",
+    "text": "The normalize() method returns the Unicode Normalization Form of a given string (if the value isn't a string, it will be converted to one first)."
+  },
+  "notify": {
+    "method": "notify",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/notify",
+    "text": "The static Atomics.notify() method notifies up some agents that are sleeping in the wait queue."
+  },
+  "now": {
+    "method": "now",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now",
+    "text": "The Date.now() method returns the number of milliseconds elapsed since January 1, 1970 00:00:00 UTC."
+  },
+  "observe": {
+    "method": "observe",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/observe",
+    "text": "The Object.observe() method was used for asynchronously observing the changes to an object. It provided a stream of changes in the order in which they occur. However, this API has been deprecated and removed from browsers. You can use the more general Proxy object instead."
+  },
+  "of": {
+    "method": "of",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/of",
+    "text": "The TypedArray.of() method creates a new typed array with a variable number of arguments. This method is nearly the same as Array.of()."
+  },
+  "or": {
+    "method": "or",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/or",
+    "text": "The static Atomics.or() method computes a bitwise OR with a given value at a given position in the array, and returns the old value at that position. This atomic operation guarantees that no other write happens until the modified value is written back."
+  },
+  "ownkeys": {
+    "method": "ownKeys",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/ownKeys",
+    "text": "The static Reflect.ownKeys() method returns an array of the target object's own property keys."
+  },
+  "padend": {
+    "method": "padEnd",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padEnd",
+    "text": "The padEnd() method pads the current string with a given string (repeated, if needed) so that the resulting string reaches a given length. The padding is applied from the end (right) of the current string."
+  },
+  "padstart": {
+    "method": "padStart",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart",
+    "text": "The padStart() method pads the current string with another string (multiple times, if needed) until the resulting string reaches the given length."
+  },
+  "parse": {
+    "method": "parse",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse",
+    "text": "The JSON.parse() method parses a JSON string, constructing the JavaScript value or object described by the string. An optional reviver function can be provided to perform a transformation on the resulting object before it is returned."
+  },
+  "parse: bad parsing": {
+    "method": "parse: bad parsing",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/JSON_bad_parse",
+    "text": "SyntaxError"
+  },
+  "parsefloat": {
+    "method": "parseFloat",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/parseFloat",
+    "text": "The Number.parseFloat() method parses a string argument and returns a floating point number."
+  },
+  "parseint": {
+    "method": "parseInt",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/parseInt",
+    "text": "The Number.parseInt() method parses a string argument and returns an integer of the specified radix or base."
+  },
+  "pop": {
+    "method": "pop",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
+    "text": "The pop() method removes the last element from an array and returns that element. This method changes the length of the array."
+  },
+  "pow": {
+    "method": "pow",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow",
+    "text": "The Math.pow() function returns the base to the exponent power, that is, baseexponent."
+  },
+  "preventextensions": {
+    "method": "preventExtensions",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/preventExtensions",
+    "text": "The handler.preventExtensions() method is a trap for Object.preventExtensions()."
+  },
+  "propertyisenumerable": {
+    "method": "propertyIsEnumerable",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable",
+    "text": "The propertyIsEnumerable() method returns a Boolean indicating whether the specified property is enumerable."
+  },
+  "push": {
+    "method": "push",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
+    "text": "The push() method adds one or more elements to the end of an array and returns the new length of the array."
+  },
+  "quote": {
+    "method": "quote",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/quote",
+    "text": "The non-standard quote() method returns a copy of the string, replacing various special characters in the string with their escape sequences and wrapping the result in double-quotes (\")."
+  },
+  "race": {
+    "method": "race",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race",
+    "text": "The Promise.race() method returns a promise that resolves or rejects as soon as one of the promises in an iterable resolves or rejects, with the value or reason from that promise."
+  },
+  "random": {
+    "method": "random",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random",
+    "text": "The Math.random() function returns a floating-point, pseudo-random number in the range 0–1 (inclusive of 0, but not 1) with approximately uniform distribution over that range — which you can then scale to your desired range. The implementation selects the initial seed to the random number generation algorithm; it cannot be chosen or reset by the user."
+  },
+  "raw": {
+    "method": "raw",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/raw",
+    "text": "The static String.raw() method is a tag function of template literals, similar to the r prefix in Python or the @ prefix in C# for string literals (yet there is a difference: see explanations in this issue). It's used to get the raw string form of template strings, that is, substitutions (e.g. ${foo}) are processed, but escapes (e.g. \\n) are not."
+  },
+  "reduce": {
+    "method": "reduce",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/reduce",
+    "text": "The reduce() method applies a function against an accumulator and each value of the typed array (from left-to-right) has to reduce it to a single value. This method has the same algorithm as Array.prototype.reduce(). TypedArray is one of the typed array types here."
+  },
+  "reduceright": {
+    "method": "reduceRight",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/reduceRight",
+    "text": "The reduceRight() method applies a function against an accumulator and each value of the typed array (from right-to-left) has to reduce it to a single value. This method has the same algorithm as Array.prototype.reduceRight(). TypedArray is one of the typed array types here."
+  },
+  "reject": {
+    "method": "reject",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/reject",
+    "text": "The Promise.reject() method returns a Promise object that is rejected with a given reason."
+  },
+  "repeat": {
+    "method": "repeat",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat",
+    "text": "The repeat() method constructs and returns a new string which contains the specified number of copies of the string on which it was called, concatenated together."
+  },
+  "replace": {
+    "method": "replace",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace",
+    "text": "The replace() method returns a new string with some or all matches of a pattern replaced by a replacement."
+  },
+  "resolve": {
+    "method": "resolve",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve",
+    "text": "The Promise.resolve() method returns a Promise object that is resolved with a given value. If the value is a promise, that promise is returned; if the value is a thenable (i.e. has a \"then\" method), the returned promise will \"follow\" that thenable, adopting its eventual state; otherwise the returned promise will be fulfilled with the value. This function flattens nested layers of promise-like objects (e.g. a promise that resolves to a promise that resolves to something) into a single layer."
+  },
+  "resolvedoptions": {
+    "method": "resolvedOptions",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/PluralRules/resolvedOptions",
+    "text": "The Intl.PluralRules.prototype.resolvedOptions() method returns a new object with properties reflecting the locale and plural formatting options computed during initialization of this PluralRules object."
+  },
+  "return": {
+    "method": "return",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator/return",
+    "text": "The return() method returns the given value and finishes the generator."
+  },
+  "reverse": {
+    "method": "reverse",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse",
+    "text": "The reverse() method reverses an array in place. The first array element becomes the last, and the last array element becomes the first."
+  },
+  "revocable": {
+    "method": "revocable",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/revocable",
+    "text": "The Proxy.revocable() method is used to create a revocable Proxy object."
+  },
+  "round": {
+    "method": "round",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round",
+    "text": "The Math.round() function returns the value of a number rounded to the nearest integer."
+  },
+  "scriptengine": {
+    "method": "ScriptEngine",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/ScriptEngine",
+    "text": "The ScriptEngine function gets the name of the scripting language in use."
+  },
+  "scriptenginebuildversion": {
+    "method": "ScriptEngineBuildVersion",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/ScriptEngineBuildVersion",
+    "text": "The ScriptEngineBuildVersion function bets the build version number of the scripting engine in use."
+  },
+  "scriptenginemajorversion": {
+    "method": "ScriptEngineMajorVersion",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/ScriptEngineMajorVersion",
+    "text": "The ScriptEngineMajorVersion function gets the major version number of the scripting engine in use."
+  },
+  "scriptengineminorversion": {
+    "method": "ScriptEngineMinorVersion",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/ScriptEngineMinorVersion",
+    "text": "The ScriptEngineMinorVersion function gets the minor version number of the scripting engine in use."
+  },
+  "seal": {
+    "method": "seal",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal",
+    "text": "The Object.seal() method seals an object, preventing new properties from being added to it and marking all existing properties as non-configurable. Values of present properties can still be changed as long as they are writable."
+  },
+  "search": {
+    "method": "search",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search",
+    "text": "The search() method executes a search for a match between a regular expression and this String object."
+  },
+  "select": {
+    "method": "select",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/PluralRules/select",
+    "text": "The Intl.PluralRules.prototype.select method returns a String indicating which plural rule to use for locale-aware formatting."
+  },
+  "set": {
+    "method": "set",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Table/set",
+    "text": "The set() prototype method of the WebAssembly.Table object mutates a reference stored at a given index to a different value."
+  },
+  "setdate": {
+    "method": "setDate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setDate",
+    "text": "The setDate() method sets the day of the Date object relative to the beginning of the currently set month."
+  },
+  "setfloat32": {
+    "method": "setFloat32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setFloat32",
+    "text": "The setFloat32() method stores a signed 32-bit float (float) value at the specified byte offset from the start of the DataView."
+  },
+  "setfloat64": {
+    "method": "setFloat64",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setFloat64",
+    "text": "The setFloat64() method stores a signed 64-bit float (double) value at the specified byte offset from the start of the DataView."
+  },
+  "setfullyear": {
+    "method": "setFullYear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setFullYear",
+    "text": "The setFullYear() method sets the full year for a specified date according to local time. Returns new timestamp."
+  },
+  "sethours": {
+    "method": "setHours",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setHours",
+    "text": "The setHours() method sets the hours for a specified date according to local time, and returns the number of milliseconds since January 1, 1970 00:00:00 UTC until the time represented by the updated Date instance."
+  },
+  "setint16": {
+    "method": "setInt16",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setInt16",
+    "text": "The setInt16() method stores a signed 16-bit integer (short) value at the specified byte offset from the start of the DataView."
+  },
+  "setint32": {
+    "method": "setInt32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setInt32",
+    "text": "The setInt32() method stores a signed 32-bit integer (long) value at the specified byte offset from the start of the DataView."
+  },
+  "setint8": {
+    "method": "setInt8",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setInt8",
+    "text": "The setInt8() method stores a signed 8-bit integer (byte) value at the specified byte offset from the start of the DataView."
+  },
+  "setmilliseconds": {
+    "method": "setMilliseconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setMilliseconds",
+    "text": "The setMilliseconds() method sets the milliseconds for a specified date according to local time."
+  },
+  "setminutes": {
+    "method": "setMinutes",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setMinutes",
+    "text": "The setMinutes() method sets the minutes for a specified date according to local time."
+  },
+  "setmonth": {
+    "method": "setMonth",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setMonth",
+    "text": "The setMonth() method sets the month for a specified date according to the currently set year."
+  },
+  "setprototypeof": {
+    "method": "setPrototypeOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/setPrototypeOf",
+    "text": "The static Reflect.setPrototypeOf() method is the same method as Object.setPrototypeOf(). It sets the prototype (i.e., the internal [[Prototype]] property) of a specified object to another object or to null."
+  },
+  "setseconds": {
+    "method": "setSeconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setSeconds",
+    "text": "The setSeconds() method sets the seconds for a specified date according to local time."
+  },
+  "settime": {
+    "method": "setTime",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setTime",
+    "text": "The setTime() method sets the Date object to the time represented by a number of milliseconds since January 1, 1970, 00:00:00 UTC."
+  },
+  "setutcdate": {
+    "method": "setUTCDate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCDate",
+    "text": "The setUTCDate() method sets the day of the month for a specified date according to universal time."
+  },
+  "setutcfullyear": {
+    "method": "setUTCFullYear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCFullYear",
+    "text": "The setUTCFullYear() method sets the full year for a specified date according to universal time."
+  },
+  "setutchours": {
+    "method": "setUTCHours",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCHours",
+    "text": "The setUTCHours() method sets the hour for a specified date according to universal time, and returns the number of milliseconds since  January 1, 1970 00:00:00 UTC until the time represented by the updated Date instance."
+  },
+  "setutcmilliseconds": {
+    "method": "setUTCMilliseconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCMilliseconds",
+    "text": "The setUTCMilliseconds() method sets the milliseconds for a specified date according to universal time."
+  },
+  "setutcminutes": {
+    "method": "setUTCMinutes",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCMinutes",
+    "text": "The setUTCMinutes() method sets the minutes for a specified date according to universal time."
+  },
+  "setutcmonth": {
+    "method": "setUTCMonth",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCMonth",
+    "text": "The setUTCMonth() method sets the month for a specified date according to universal time."
+  },
+  "setutcseconds": {
+    "method": "setUTCSeconds",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds",
+    "text": "The setUTCSeconds() method sets the seconds for a specified date according to universal time."
+  },
+  "setuint16": {
+    "method": "setUint16",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setUint16",
+    "text": "The setUint16() method stores an unsigned 16-bit integer (unsigned short) value at the specified byte offset from the start of the DataView."
+  },
+  "setuint32": {
+    "method": "setUint32",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setUint32",
+    "text": "The setUint32() method stores an unsigned 32-bit integer (unsigned long) value at the specified byte offset from the start of the DataView."
+  },
+  "setuint8": {
+    "method": "setUint8",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView/setUint8",
+    "text": "The setUint8() method stores an unsigned 8-bit integer (byte) value at the specified byte offset from the start of the DataView."
+  },
+  "setyear": {
+    "method": "setYear",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/setYear",
+    "text": "The setYear() method sets the year for a specified date according to local time. Because setYear() does not set full years (\"year 2000 problem\"), it is no longer used and has been replaced by the setFullYear() method."
+  },
+  "shift": {
+    "method": "shift",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift",
+    "text": "The shift() method removes the first element from an array and returns that removed element. This method changes the length of the array."
+  },
+  "sign": {
+    "method": "sign",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign",
+    "text": "The Math.sign() function returns the sign of a number, indicating whether the number is positive, negative or zero."
+  },
+  "sin": {
+    "method": "sin",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sin",
+    "text": "The Math.sin() function returns the sine of a number."
+  },
+  "sinh": {
+    "method": "sinh",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sinh",
+    "text": "The Math.sinh() function returns the hyperbolic sine of a number, that can be expressed using the constant e:"
+  },
+  "slice": {
+    "method": "slice",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/slice",
+    "text": "The SharedArrayBuffer.prototype.slice() method returns a new SharedArrayBuffer whose contents are a copy of this SharedArrayBuffer's bytes from begin, inclusive, up to end, exclusive. If either begin or end is negative, it refers to an index from the end of the array, as opposed to from the beginning. This method has the same algorithm as Array.prototype.slice()."
+  },
+  "small": {
+    "method": "small",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/small",
+    "text": "The small() method creates a <small> HTML element that causes a string to be displayed in a small font."
+  },
+  "some": {
+    "method": "some",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/some",
+    "text": "The some() method tests whether some element in the typed array passes the test implemented by the provided function. This method has the same algorithm as Array.prototype.some(). TypedArray is one of the typed array types here."
+  },
+  "sort": {
+    "method": "sort",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/sort",
+    "text": "The sort() method sorts the elements of a typed array numerically in place and returns the typed array. This method has the same algorithm as Array.prototype.sort(), except that sorts the values numerically instead of as strings. TypedArray is one of the typed array types here."
+  },
+  "splice": {
+    "method": "splice",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice",
+    "text": "The splice() method changes the contents of an array by removing or replacing existing elements and/or adding new elements."
+  },
+  "split": {
+    "method": "split",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split",
+    "text": "The split() method splits a String object into an array of strings by separating the string into substrings, using a specified separator string to determine where to make each split."
+  },
+  "sqrt": {
+    "method": "sqrt",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt",
+    "text": "The Math.sqrt() function returns the square root of a number, that is"
+  },
+  "startswith": {
+    "method": "startsWith",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith",
+    "text": "The startsWith() method determines whether a string begins with the characters of a specified string, returning true or false as appropriate."
+  },
+  "store": {
+    "method": "store",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/store",
+    "text": "The static Atomics.store() method stores a given value at the given position in the array and returns that value."
+  },
+  "strike": {
+    "method": "strike",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/strike",
+    "text": "The strike() method creates a <strike> HTML element that causes a string to be displayed as struck-out text."
+  },
+  "stringify": {
+    "method": "stringify",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+    "text": "The JSON.stringify() method converts a JavaScript object or value to a JSON string, optionally replacing values if a replacer function is specified or optionally including only the specified properties if a replacer array is specified."
+  },
+  "sub": {
+    "method": "sub",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/sub",
+    "text": "The sub() method creates a <sub> HTML element that causes a string to be displayed as subscript."
+  },
+  "subarray": {
+    "method": "subarray",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/subarray",
+    "text": "The subarray() method returns a new TypedArray on the same ArrayBuffer store and with the same element types as for this TypedArray object. The begin offset is inclusive and the end offset is exclusive. TypedArray is one of the typed array types."
+  },
+  "substr": {
+    "method": "substr",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr",
+    "text": "The substr() method returns a portion of the string, starting at the specified index and extending for a given number of characters afterward."
+  },
+  "substring": {
+    "method": "substring",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring",
+    "text": "The substring() method returns the part of the string between the start and end indexes, or to the end of the string."
+  },
+  "sup": {
+    "method": "sup",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/sup",
+    "text": "The sup() method creates a <sup> HTML element that causes a string to be displayed as superscript."
+  },
+  "supportedlocalesof": {
+    "method": "supportedLocalesOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ListFormat/supportedLocalesOf",
+    "text": "The Intl.ListFormat.supportedLocalesOf() method returns an array containing those of the provided locales that are supported in date and time formatting without having to fall back to the runtime's default locale."
+  },
+  "tan": {
+    "method": "tan",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/tan",
+    "text": "The Math.tan() function returns the tangent of a number."
+  },
+  "tanh": {
+    "method": "tanh",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/tanh",
+    "text": "The Math.tanh() function returns the hyperbolic tangent of a number, that is"
+  },
+  "test": {
+    "method": "test",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test",
+    "text": "The test() method executes a search for a match between a regular expression and a specified string. Returns true or false."
+  },
+  "then": {
+    "method": "then",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then",
+    "text": "The then() method returns a Promise. It takes up to two arguments: callback functions for the success and failure cases of the Promise."
+  },
+  "throw": {
+    "method": "throw",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator/throw",
+    "text": "The throw() method resumes the execution of a generator by throwing an error into it and returns an object with two properties done and value."
+  },
+  "toarray": {
+    "method": "toArray",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/VBArray/toArray",
+    "text": "The VBArray.toArray method returns a standard JavaScript array converted from a VBArray."
+  },
+  "todatestring": {
+    "method": "toDateString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toDateString",
+    "text": "The toDateString() method returns the date portion of a Date object in human readable form in American English."
+  },
+  "toexponential": {
+    "method": "toExponential",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toExponential",
+    "text": "The toExponential() method returns a string representing the Number object in exponential notation."
+  },
+  "tofixed": {
+    "method": "toFixed",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed",
+    "text": "The toFixed() method formats a number using fixed-point notation."
+  },
+  "togmtstring": {
+    "method": "toGMTString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toGMTString",
+    "text": "The toGMTString() method converts a date to a string, using Internet Greenwich Mean Time (GMT) conventions. The exact format of the value returned by toGMTString() varies according to the platform and browser, in general it should represent a human readable date string."
+  },
+  "toisostring": {
+    "method": "toISOString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString",
+    "text": "The toISOString() method returns a string in simplified extended ISO format (ISO 8601), which is always 24 or 27 characters long (YYYY-MM-DDTHH:mm:ss.sssZ or ±YYYYYY-MM-DDTHH:mm:ss.sssZ, respectively). The timezone is always zero UTC offset, as denoted by the suffix \"Z\"."
+  },
+  "tointeger": {
+    "method": "toInteger",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toInteger",
+    "text": "The Number.toInteger() method used to evaluate the passed value and convert it to an integer, but its implementation has been removed."
+  },
+  "tojson": {
+    "method": "toJSON",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON",
+    "text": "The toJSON() method returns a string representation of the Date object."
+  },
+  "tolocaledatestring": {
+    "method": "toLocaleDateString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString",
+    "text": "The toLocaleDateString() method returns a string with a language sensitive representation of the date portion of this date. The new locales and options arguments let applications specify the language whose formatting conventions should be used and allow to customize the behavior of the function. In older implementations, which ignore the locales and options arguments, the locale used and the form of the string returned are entirely implementation dependent."
+  },
+  "tolocaleformat": {
+    "method": "toLocaleFormat",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleFormat",
+    "text": "The non-standard toLocaleFormat() method converts a date to a string using the specified formatting. Intl.DateTimeFormat is an alternative to format dates in a standards-compliant way. See also the newer version of Date.prototype.toLocaleDateString()."
+  },
+  "tolocalelowercase": {
+    "method": "toLocaleLowerCase",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLocaleLowerCase",
+    "text": "The toLocaleLowerCase() method returns the calling string value converted to lower case, according to any locale-specific case mappings."
+  },
+  "tolocalestring": {
+    "method": "toLocaleString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toLocaleString",
+    "text": "The toLocaleString() method returns a string representing the object. This method is meant to be overridden by derived objects for locale-specific purposes."
+  },
+  "tolocaletimestring": {
+    "method": "toLocaleTimeString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString",
+    "text": "The toLocaleTimeString() method returns a string with a language sensitive representation of the time portion of this date. The new locales and options arguments let applications specify the language whose formatting conventions should be used and customize the behavior of the function. In older implementations, which ignore the locales and options arguments, the locale used and the form of the string returned are entirely implementation dependent."
+  },
+  "tolocaleuppercase": {
+    "method": "toLocaleUpperCase",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLocaleUpperCase",
+    "text": "The toLocaleUpperCase() method returns the calling string value converted to upper case, according to any locale-specific case mappings."
+  },
+  "tolowercase": {
+    "method": "toLowerCase",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
+    "text": "The toLowerCase() method returns the calling string value converted to lower case."
+  },
+  "toprecision": {
+    "method": "toPrecision",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toPrecision",
+    "text": "The toPrecision() method returns a string representing the Number object to the specified precision."
+  },
+  "tosource": {
+    "method": "toSource",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toSource",
+    "text": "The toSource() method returns a string representing the source code of the object."
+  },
+  "tostring": {
+    "method": "toString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString",
+    "text": "The toString() method returns a string representing the specified Number object."
+  },
+  "totimestring": {
+    "method": "toTimeString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toTimeString",
+    "text": "The toTimeString() method returns the time portion of a Date object in human readable form in American English."
+  },
+  "toutcstring": {
+    "method": "toUTCString",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toUTCString",
+    "text": "The toUTCString() method converts a date to a string, using the UTC time zone."
+  },
+  "touppercase": {
+    "method": "toUpperCase",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase",
+    "text": "The toUpperCase() method returns the calling string value converted to uppercase (the value will be converted to a string if it isn't one)."
+  },
+  "transfer": {
+    "method": "transfer",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/transfer",
+    "text": "The static ArrayBuffer.transfer() method returns a new ArrayBuffer whose contents have been taken from the oldBuffer's data and then is either truncated or zero-extended by newByteLength. If newByteLength is undefined, the byteLength of the oldBuffer is used. This operation leaves oldBuffer in a detached state."
+  },
+  "trim": {
+    "method": "trim",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim",
+    "text": "The trim() method removes whitespace from both ends of a string. Whitespace in this context is all the whitespace characters (space, tab, no-break space, etc.) and all the line terminator characters (LF, CR, etc.)."
+  },
+  "trimend": {
+    "method": "trimEnd",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimEnd",
+    "text": "The trimEnd() method removes whitespace from the end of a string. trimRight() is an alias of this method."
+  },
+  "trimstart": {
+    "method": "trimStart",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart",
+    "text": "The trimStart() method removes whitespace from the beginning of a string. trimLeft() is an alias of this method."
+  },
+  "trunc": {
+    "method": "trunc",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc",
+    "text": "The Math.trunc() function returns the integer part of a number by removing any fractional digits."
+  },
+  "utc": {
+    "method": "UTC",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/UTC",
+    "text": "The Date.UTC() method accepts the same parameters as the Date constructor, but treats them as UTC. It returns the number of milliseconds since January 1, 1970, 00:00:00 UTC."
+  },
+  "ubound": {
+    "method": "ubound",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/VBArray/ubound",
+    "text": "The VBArray.ubound method returns the highest index value used in the specified dimension of the VBArray."
+  },
+  "unobserve": {
+    "method": "unobserve",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/unobserve",
+    "text": "The Object.unobserve() method was used to remove observers set by Object.observe(), but has been deprecated and removed from Browsers. You can use the more general Proxy object instead."
+  },
+  "unshift": {
+    "method": "unshift",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift",
+    "text": "The unshift() method adds one or more elements to the beginning of an array and returns the new length of the array."
+  },
+  "unwatch": {
+    "method": "unwatch",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/unwatch",
+    "text": "The unwatch() method removes a watchpoint set with the watch() method."
+  },
+  "validate": {
+    "method": "validate",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/validate",
+    "text": "The WebAssembly.validate() function validates a given typed array of WebAssembly binary code, returning whether the bytes form a valid wasm module (true) or not (false)."
+  },
+  "valueof": {
+    "method": "valueOf",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/valueOf",
+    "text": "The valueOf() method returns the primitive value of a Symbol object."
+  },
+  "values": {
+    "method": "values",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values",
+    "text": "The Object.values() method returns an array of a given object's own enumerable property values, in the same order as that provided by a for...in loop (the difference being that a for-in loop enumerates properties in the prototype chain as well)."
+  },
+  "wait": {
+    "method": "wait",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/wait",
+    "text": "The static Atomics.wait() method verifies that a given position in an Int32Array still contains a given value and if so sleeps, awaiting a wakeup or a timeout. It returns a string which is either \"ok\", \"not-equal\", or \"timed-out\"."
+  },
+  "watch": {
+    "method": "watch",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/watch",
+    "text": "The watch() method watches for a property to be assigned a value and runs a function when that occurs."
+  },
+  "write": {
+    "method": "write",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Debug/write",
+    "text": "The debug.write function sends strings to the script debugger."
+  },
+  "writeln": {
+    "method": "writeln",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Microsoft_Extensions/Debug/writeln",
+    "text": "The debug.writeln function sends strings to the script debugger, followed by a newline character."
+  },
+  "xor": {
+    "method": "xor",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/xor",
+    "text": "The static Atomics.xor() method computes a bitwise XOR with a given value at a given position in the array, and returns the old value at that position. This atomic operation guarantees that no other write happens until the modified value is written back."
+  },
+  "__definegetter__": {
+    "method": "__defineGetter__",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/__defineGetter__",
+    "text": "The __defineGetter__ method binds an object's property to a function to be called when that property is looked up."
+  },
+  "__definesetter__": {
+    "method": "__defineSetter__",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/__defineSetter__",
+    "text": "The __defineSetter__ method binds an object's property to a function to be called when an attempt is made to set that property."
+  },
+  "__lookupgetter__": {
+    "method": "__lookupGetter__",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/__lookupGetter__",
+    "text": "The __lookupGetter__ method returns the function bound as a getter to the specified property."
+  },
+  "__lookupsetter__": {
+    "method": "__lookupSetter__",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/__lookupSetter__",
+    "text": "The __lookupSetter__ method returns the function bound as a setter to the specified property."
+  }
+}

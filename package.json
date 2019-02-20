@@ -1,0 +1,26 @@
+{
+  "name": "jscli",
+  "version": "1.0.0",
+  "description": "Console utility for getting JavaScript documentation",
+  "bin": {
+    "js": "./bin/js.js"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "man",
+    "docs",
+    "documentation",
+    "help",
+    "cli"
+  ],
+  "license": "MIT",
+  "author": "Anton Kulakov <kulakowka@gmail.com>",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kulakowka/jscli.git"
+  }
+}
