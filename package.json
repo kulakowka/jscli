@@ -1,5 +1,5 @@
 {
-  "name": "jscli",
+  "name": "@kulakowka/js",
   "version": "1.0.0",
   "description": "Console utility for getting JavaScript documentation",
   "bin": {
